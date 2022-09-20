@@ -24,7 +24,7 @@ Drive wheels,
 Doors,
 Wheel,
 Color,
-Airbags,
+Airbags
 
 # Refrence Data
 https://www.kaggle.com/code/samuelegwu/car-price-eda-and-prediction
